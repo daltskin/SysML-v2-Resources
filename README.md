@@ -18,6 +18,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [MBSE4U — SysML v2](https://mbse4u.com/sysml-v2/) — Blog posts, tool overviews, and SysML v2 methodology articles
 - [MBSE Podcast](https://mbse-podcast.rocks/) — Podcast covering MBSE topics including SysML v2
 - [OMG Systems Modeling Community](https://www.omg.org/communities/systems-modeling-community.htm) — Official OMG community hub for SysML
+- [SysML v2 Cheat Sheet](https://www.sodiuswillert.com/hubfs/Downloadables/SodiusWillertSysMLv2CheatSheet.pdf) - SysML v2 Reference sheet by Sodius Willert
 
 ## Authoring Tools
 
@@ -63,6 +64,10 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [The SysML v2 Book](https://mbse4u.com/books/the-sysml-v2-book-practical-insights-and-comprehensive-reference/) - by Tim Weilkiens & Vince Molnár 
 - [SysML v2 Masterclass: A comprehensive and practical guide to system modeling - with SysML v2](https://www.waterstones.com/book/sysml-v2-masterclass/dr-bruce-powel-douglass/9781805127192) - by Dr. Bruce Powel Douglass
 
+## Samples
+- [Systems-Modelling Examples](https://github.com/Systems-Modeling/SysML-v2-Release/tree/master/sysml/src/examples) - OMG Reference examples
+- [Batmobile Example Model](https://github.com/MBSE4U/dont-panic-batmobile) - SysML v2 Batmobile example by MBSE4U
+- [Apollo 11 SysML v2](https://github.com/airbus/apollo-11-sysml-v2) - Apollo 11 mission in SysML v2 by Airbus
 
 ---
 
