@@ -69,6 +69,9 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [Batmobile Example Model](https://github.com/MBSE4U/dont-panic-batmobile) - SysML v2 Batmobile example by MBSE4U
 - [Apollo 11 SysML v2](https://github.com/airbus/apollo-11-sysml-v2) - Apollo 11 mission in SysML v2 by Airbus
 
+## Fun
+ - [Jetpac SysML v2 - Retro game to build rockets with SysML v2](https://jetpac-sysml.azurewebsites.net)
+
 ---
 
 ## Contributing
