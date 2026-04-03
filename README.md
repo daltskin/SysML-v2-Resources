@@ -30,6 +30,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [SysML v2 Pilot Implementation (Eclipse)](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation) — Eclipse-based editor with Xtext grammar and PlantUML visualization
 - [SysML v2 Jupyter Kernel](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/tree/master/org.omg.sysml.jupyter.kernel) — Interactive SysML v2 notebook kernel for Jupyter
 - [Sysand](https://sysand.org/) — Open-source SysML v2 package manager and package index
+- [SysML v2 Editor ](https://marketplace.visualstudio.com/items?itemName=Elan8.spec42) - Rust based Language Server for SysmML v2 with a VS Code Extension by Elan8
 
 ## Modelling Tools
 
