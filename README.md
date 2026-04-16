@@ -31,6 +31,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [SysML v2 Jupyter Kernel](https://github.com/Systems-Modeling/SysML-v2-Pilot-Implementation/tree/master/org.omg.sysml.jupyter.kernel) — Interactive SysML v2 notebook kernel for Jupyter
 - [Sysand](https://sysand.org/) — Open-source SysML v2 package manager and package index
 - [SysML v2 Editor ](https://marketplace.visualstudio.com/items?itemName=Elan8.spec42) - Rust based Language Server for SysmML v2 with a VS Code Extension by Elan8
+- [SysArchX: Web viewer for SysML v2](https://www.sysarchx.com/) - Browser based web viewer of SysML v2 files by by Esaias Pech
 
 ## Modelling Tools
 
@@ -39,6 +40,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [Eclipse SysON](https://mbse-syson.org/) — Open-source, web-based graphical SysML v2 modelling tool (Obeo / Eclipse Foundation), with Capella interoperability
 - [SysGit](https://www.sysgit.io/) — Git-based collaborative platform for SysML v2 modelling, requirements management, and systems engineering automation
 - [CATIA Magic / Cameo (Dassault Systèmes)](https://www.3ds.com/products/catia/no-magic) — Enterprise MBSE tool with SysML v2 support
+- [CATIA Magic / Cameo SysML v2 Community Edition](https://docs.nomagic.com/SYSML2P/2026x/catia-magic-cameo-sysml-v2-community-edition-286557495.html) - Free MBSE tool with SysML v2 support
 - [Enterprise Architect / Trechoro (Sparx Systems)](https://sparxsystems.com/) — Modelling platform with SysML v2 support
 - [Rhapsody (IBM)](https://www.ibm.com/products/systems-design-rhapsody) — Systems engineering tool with SysML v2 support
 - [Systems Modeler with SysML v2 (Siemens)](https://plm.sw.siemens.com/) — Web-based collaborative SysML v2 modelling platform integrated with Teamcenter
