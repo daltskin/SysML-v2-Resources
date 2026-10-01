@@ -32,6 +32,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [Sysand](https://sysand.org/) — Open-source SysML v2 package manager and package index
 - [SysML v2 Editor ](https://marketplace.visualstudio.com/items?itemName=Elan8.spec42) - Rust based Language Server for SysmML v2 with a VS Code Extension by Elan8
 - [SysArchX: Web viewer for SysML v2](https://www.sysarchx.com/) - Browser based web viewer of SysML v2 files by by Esaias Pech
+- [https://github.com/michaellrowley/sysml-vim] - SysML v2 / KerML backend + CLI with Vim and Neovim integration by Michael Rowley
 
 ## Modelling Tools
 
@@ -66,6 +67,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 ## Books
 - [The SysML v2 Book](https://mbse4u.com/books/the-sysml-v2-book-practical-insights-and-comprehensive-reference/) - by Tim Weilkiens & Vince Molnár 
 - [SysML v2 Masterclass: A comprehensive and practical guide to system modeling - with SysML v2](https://www.waterstones.com/book/sysml-v2-masterclass/dr-bruce-powel-douglass/9781805127192) - by Dr. Bruce Powel Douglass
+- [https://sim4edu.com/reading/kerml-sysml/] - by Gerd Wagner
 
 ## Samples
 - [Systems-Modelling Examples](https://github.com/Systems-Modeling/SysML-v2-Release/tree/master/sysml/src/examples) - OMG Reference examples
