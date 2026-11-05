@@ -51,6 +51,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [Mg (Mgnite)](https://www.mgnite.com/) — SysML v2 modelling integrating Excel, PowerPoint, MATLAB/Simulink, and DOORS Next in JupyterLab
 - [SystemsModeling.com (Model Driven Solutions)](https://www.systemsmodeling.com/) — Web-based platform for authoring, validating, and visualising SysML v2 models
 - [Apricot](https://apricot.tools/) — Web-based platform for diagraming, writing, validating, analyzing and document generation of SysML v2 models
+- [MBEstudio (Vector Stream Systems)](https://vectorstreamsystems.com/ai-sysml-v2) - Browser-based SysML v2 modelling studio where an AI agent drafts the textual model and a compiler checks every edit, with requirement evaluation, simulation, trade studies and an MCP server
 
 ## Language Server Protocols
 
