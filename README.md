@@ -33,6 +33,7 @@ A curated list of useful resources for learning and working with [SysML v2](http
 - [SysML v2 Editor ](https://marketplace.visualstudio.com/items?itemName=Elan8.spec42) - Rust based Language Server for SysmML v2 with a VS Code Extension by Elan8
 - [SysArchX: Web viewer for SysML v2](https://www.sysarchx.com/) - Browser based web viewer of SysML v2 files by by Esaias Pech
 - [SysML-VIM](https://github.com/michaellrowley/sysml-vim) - SysML v2 / KerML backend + CLI with Vim and Neovim integration by Michael Rowley
+- [Ortho for SysML v2](https://marketplace.visualstudio.com/items?itemName=ola-coding.ortho) - VS Code extension and CLI that draws six architectural views of a SysML v2 model as SVG in the standard graphical notation, with a live preview and checks that the views agree, by ola-coding
 
 ## Modelling Tools
 
